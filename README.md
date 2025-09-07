@@ -1,4 +1,6 @@
-Fake News Detection Project
+**Fake News Detection Project**
+
+
 This project is a Machine Learning model and API application that classifies news texts as "Real" or "Fake." The following instructions explain how to set up, run, and understand the project.
 
 Features
